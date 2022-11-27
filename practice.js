@@ -25,3 +25,4 @@ myArray[2]=true;
 myArray[0]="amogha";
 console.log(myArray);
 
+console.log(myObj.id);
